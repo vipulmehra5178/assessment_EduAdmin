@@ -7,7 +7,7 @@ All backend data is fetched from: **[https://dummyjson.com]**
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.vercel.app
+👉 https://assessment-edu-admin.vercel.app/
 
 ---
 
@@ -103,8 +103,8 @@ page + search + category
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/vipulmehra5178/assessment_EduAdmin
+cd assessment_EduAdmin
 ```
 
 ---
